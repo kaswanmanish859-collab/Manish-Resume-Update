@@ -1,0 +1,19 @@
+Job Title: Senior Technical Product Manager (API & Developer Platform)
+Company: Starlight Software
+Location: San Francisco, CA / Hybrid
+
+Role Overview:
+Starlight Software is seeking a Senior Technical Product Manager to lead our Core API and Developer Ecosystem. You will define product vision, manage developer documentation, partner with engineering leaders, and drive adoption across 10,000+ developer accounts.
+
+Responsibilities:
+- Own the product roadmap for developer-facing APIs, SDKs, and webhook infrastructure.
+- Translate complex technical customer needs into PRDs, user stories, and acceptance criteria.
+- Conduct user research, developer interviews, and data-driven prioritization using SQL, Amplitude, and Mixpanel.
+- Partner with engineering, developer relations, and sales to launch high-impact developer products.
+- Monitor product metrics: API latency, developer activation rate, churn, and NPS.
+
+Requirements:
+- 4+ years of product management experience in B2B SaaS, developer tools, or API platforms.
+- Background working closely with engineering teams; computer science degree or equivalent technical foundation.
+- Strong proficiency in SQL, Jira, Agile/Scrum, and product analytics tools.
+- Proven track record launching products that increased revenue or user retention.

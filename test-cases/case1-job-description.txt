@@ -1,0 +1,18 @@
+Job Title: Senior Full-Stack Engineer (Next.js & Cloud)
+Company: Apex FinTech Labs
+Location: New York, NY / Remote
+
+About the Role:
+We are looking for a Senior Full-Stack Engineer with strong production experience in Next.js, React, TypeScript, and Node.js microservices. You will architect high-throughput financial dashboards, design resilient REST & GraphQL APIs, and deploy cloud infrastructure on AWS.
+
+Key Requirements:
+- 4+ years of professional experience with React, Next.js (App Router), TypeScript, and Node.js.
+- Strong understanding of state management, SSR/SSG caching, and web performance optimization (Core Web Vitals).
+- Production experience with PostgreSQL, Prisma ORM, Redis caching, and Docker.
+- Hands-on experience with AWS services (ECS, S3, CloudFront, Lambda, RDS).
+- Familiarity with CI/CD pipelines (GitHub Actions), automated testing (Jest, Playwright), and security best practices.
+- Excellent communication skills, agile teamwork, and a passion for clean, maintainable architecture.
+
+Preferred Qualifications:
+- Experience with real-time financial data streaming (WebSockets, Kafka).
+- Contributions to open-source software and knowledge of modern CSS architectures.

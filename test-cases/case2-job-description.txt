@@ -1,0 +1,18 @@
+Job Title: AI / Machine Learning Applications Engineer
+Company: CognitiveHealth AI
+Location: Boston, MA / Hybrid
+
+Role Overview:
+CognitiveHealth AI is seeking an AI / ML Applications Engineer to integrate Large Language Models (LLMs) and computer vision pipelines into our clinical decision support system. You will fine-tune open-source models, build RAG (Retrieval-Augmented Generation) pipelines, and deploy secure inference microservices.
+
+Requirements:
+- 3+ years experience with Python, PyTorch, Hugging Face, and LangChain / LlamaIndex.
+- Strong practical knowledge of Retrieval-Augmented Generation (RAG), vector databases (Pinecone, ChromaDB, Milvus), and embeddings.
+- Experience with LLM prompt engineering, fine-tuning (LoRA, QLoRA), and model evaluation (BLEU, ROUGE, BERTScore).
+- Proficiency deploying AI models using FastAPI, Docker, and Kubernetes on GCP or AWS.
+- Background in processing structured and unstructured clinical/textual datasets (Pandas, NumPy, Scikit-learn).
+- Master’s or Bachelor’s in Computer Science, Data Science, or related STEM field.
+
+Bonus:
+- Experience with HIPAA/healthcare privacy standards.
+- Published research or open-source LLM benchmarking tools.

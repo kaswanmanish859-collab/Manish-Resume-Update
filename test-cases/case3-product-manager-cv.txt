@@ -1,0 +1,26 @@
+MARCUS CHEN
+San Francisco, CA | (415) 555-0814 | marcus.chen@pmcareer.com | linkedin.com/in/marcus-chen-pm
+
+PROFESSIONAL SUMMARY
+Product Manager with 4+ years leading developer-centric SaaS products, API platforms, and partner integrations. Skilled in user research, PRD authoring, SQL analytics, and cross-functional agile leadership.
+
+CORE COMPETENCIES
+- Product Strategy: Product Roadmap, PRDs, MVP Definition, User Journey Mapping, Developer Experience (DX)
+- Analytics & Tools: SQL, Amplitude, Mixpanel, Jira, Confluence, Figma, Google Analytics, Postman
+- Methodologies: Agile Scrum, Sprint Planning, A/B Testing, User Interviews, Backlog Grooming
+
+EXPERIENCE
+Product Manager | NexaCloud API Platform, San Francisco, CA | 2022 – Present
+- Led the developer platform product squad (6 engineers, 1 designer), delivering REST and GraphQL APIs used by 8,500 active developers.
+- Authored 25+ detailed PRDs and technical specs for webhook notifications and OAuth 2.0 authentication flows.
+- Increased developer activation rate by 34% within 90 days by revamping interactive API documentation and quickstart guides.
+- Queried user retention cohorts and event funnels using SQL and Amplitude, identifying and removing a 20% drop-off point in onboarding.
+- Conducted 40+ user interviews with CTOs and developer leads to shape the quarterly roadmap.
+
+Associate Product Manager | DataBridge Inc., Seattle, WA | 2020 – 2022
+- Managed feature backlog and sprint ceremonies for B2B data synchronization connectors.
+- Defined acceptance criteria and tracked velocity across 14 consecutive two-week agile sprints.
+- Implemented in-app feedback surveys that increased product CSAT from 74% to 88%.
+
+EDUCATION
+B.S. in Management Information Systems & Computer Science | University of Washington | 2016 – 2020

@@ -1,0 +1,37 @@
+ALEX RIVERA
+San Francisco, CA | (555) 382-9104 | alex.rivera@email.com | linkedin.com/in/alex-rivera-dev | github.com/arivera-code
+
+PROFESSIONAL SUMMARY
+Experienced software engineer with 4 years building web applications using JavaScript, React, and Node.js. Passionate about user-friendly interfaces, performance tuning, and scalable backend services.
+
+TECHNICAL SKILLS
+Languages: TypeScript, JavaScript (ES6+), Python, SQL, HTML5, CSS3
+Frameworks & Libraries: React, Next.js, Redux Toolkit, Node.js, Express, Jest, React Testing Library
+Databases & Cloud: PostgreSQL, MongoDB, Redis, AWS (S3, EC2), Docker
+Tools: Git, GitHub Actions, Webpack, Postman, Linux
+
+WORK EXPERIENCE
+Software Engineer | CloudScale Systems, San Francisco, CA | July 2022 – Present
+- Developed customer-facing analytics dashboards using Next.js, React, and TypeScript serving 120,000 monthly active users.
+- Reduced initial page load times by 42% through image optimization, dynamic imports, and Next.js server components.
+- Built RESTful microservices in Node.js and Express with PostgreSQL and Prisma, handling over 2.5 million daily requests.
+- Integrated Redis caching layer, decreasing database query latency by 60%.
+- Configured GitHub Actions CI/CD pipeline, reducing manual release cycle time from 4 hours to 15 minutes.
+- Collaborated in an agile scrum team of 8 engineers and conducted regular code reviews.
+
+Junior Full-Stack Developer | DevSphere Studios, Austin, TX | June 2020 – June 2022
+- Built responsive client web portals using React, Redux, and Node.js.
+- Implemented automated unit and integration tests using Jest and Supertest, raising test coverage to 85%.
+- Maintained PostgreSQL database migrations and optimized slow queries.
+- Containerized development environments using Docker and Docker Compose.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of Texas at Austin | 2016 – 2020 | GPA: 3.8 / 4.0
+
+PROJECTS
+TradePulse - Real-time Portfolio Tracker
+- Built a portfolio tracking web app with Next.js, TypeScript, and WebSockets for real-time price feeds.
+- Deployed on AWS ECS with automated SSL and CloudFront CDN distribution.
+
+CERTIFICATIONS
+- AWS Certified Developer - Associate (2023)

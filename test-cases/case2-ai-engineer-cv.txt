@@ -1,0 +1,35 @@
+PRIYA SHARMA
+Boston, MA | (617) 555-0192 | priya.sharma@mlmail.com | linkedin.com/in/priya-sharma-ai | github.com/psharma-ai
+
+SUMMARY
+Machine Learning Engineer with 3 years of experience developing deep learning models, NLP pipelines, and data analytics solutions. Skilled in Python, PyTorch, LLMs, and cloud deployments.
+
+TECHNICAL SKILLS
+- Programming: Python, SQL, C++, Bash
+- ML & AI: PyTorch, TensorFlow, Hugging Face Transformers, Scikit-Learn, Pandas, NumPy, OpenCV
+- NLP & LLM: LangChain, RAG architectures, Prompt Engineering, OpenAI API, LoRA fine-tuning
+- Vector DBs & Search: ChromaDB, FAISS, Pinecone
+- Cloud & MLOps: FastAPI, Docker, AWS (SageMaker, S3), Git, MLflow
+
+EXPERIENCE
+Machine Learning Engineer | Apex HealthTech, Boston, MA | March 2023 – Present
+- Designed and deployed an automated biomedical question-answering system using Hugging Face Transformers and LangChain with RAG.
+- Indexed 500,000+ medical journals into ChromaDB vector database, enabling sub-200ms semantic search.
+- Fine-tuned Llama-2 models using LoRA techniques on 40,000 domain-specific records, improving diagnostic summary accuracy by 28%.
+- Built inference REST endpoints using FastAPI and Docker, deployed on AWS SageMaker with 99.9% uptime.
+- Tracked experiments, model artifacts, and hyperparameters using MLflow.
+
+Data Science Associate | DataGenix Solutions, Cambridge, MA | August 2021 – February 2023
+- Developed predictive models using Scikit-Learn and PyTorch for customer churn and healthcare patient readmission.
+- Cleaned and preprocessed tabular and unstructured clinical text datasets exceeding 2M records with Pandas and NumPy.
+- Implemented BERT-based sentiment analysis and text classification models with 89% F1-score.
+- Conducted model evaluation using cross-validation, ROC-AUC, and precision-recall metrics.
+
+EDUCATION
+Master of Science in Data Science | Boston University | 2019 – 2021 | GPA: 3.9 / 4.0
+Bachelor of Technology in Computer Science | Delhi Technological University | 2015 – 2019
+
+PROJECTS
+MedRAG - Open-Source Clinical Document Assistant
+- Built a LangChain RAG pipeline querying clinical trial PDFs with hybrid keyword-vector search (FAISS) and citation generation.
+- Implemented automated evaluation using ROUGE and BERTScore.
