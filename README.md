@@ -22,7 +22,7 @@ As mandated by the project requirements, the user interface features **only two 
 ## 2. Core Features & Architecture
 
 - **Automatic Resume Parsing:** Multi-format document parser extracting contact information, work experience, education, skills, projects, certifications, and achievements from PDF (via `pdf-parse`) and DOCX (via `mammoth`).
-- **Deep JD Analysis:** Identifies the target role, seniority level, core competencies, preferred qualifications, and critical ATS keywords.
+- **Deep JD Analysis:** Identifies the target role, senikeywords.
 - **AI Resume Tailoring with Zero Hallucination:** Uses Google Gemini API with strict prompt engineering.
   > **Strict Factual Guardrail:** The system **preserves the candidate's actual qualifications, degrees, employers, timelines, and skills**. It **never invents or fabricates** qualifications. Missing job requirements are explicitly highlighted in the Skill Gap Analysis.
 - **ATS Keyword & Skill Gap Analysis Card:**
@@ -42,7 +42,7 @@ As mandated by the project requirements, the user interface features **only two 
   - **Export JSON:** Portable structured data export.
 - **LinkedIn Account Verification & Credential Sync:**
   - **Verify & Authenticate Profile:** Link any LinkedIn URL/username to authenticate candidate identity with a verified checkmark shield.
-  - **Review All Account Details:** Inspect headline, location, current company, connections, and full summary directly in the verification modal.
+  - **Review All Account Details:** Inspect headline, location, current company, connections, and full summary directly in the verificority level, core competencies, preferred qualifications, and critical ATS ation modal.
   - **Peer-Endorsed Skills Review:** Review all verified LinkedIn skills, endorsement counts, and view real-time **ATS Match ⭐** badges for skills aligning with the target Job Description.
   - **Verified Certifications & Licenses:** Validates credentials from AWS, Google Cloud, Meta, Scrum Alliance, etc. with official Credential IDs and verification URLs.
   - **Seamless Resume Merge:** Automatically places verified certifications under the resume's Certifications section (with LinkedIn Verified badges), merges skills into core competencies, and updates contact links.
@@ -142,15 +142,15 @@ The application includes 3 complete, realistic test cases ready to test with 1-c
 ## 6. User Flow Walkthrough
 
 ```mermaid
-graph TD
-    A[Step 1: Open ResumePilot AI] --> B[Step 2: Enter Job Description or Load Sample]
-    B --> C[Step 3: Upload Existing CV (PDF / DOCX / TXT)]
-    C --> D[Step 4: Click 'Generate Updated Resume']
-    D --> E[Step 5: Document Parsed & JD Analyzed]
-    E --> F[Step 6: LLM Generates Tailored Resume & Keyword Gap Analysis]
-    F --> G[Step 7: View ATS Scorecard & Interactive Resume]
-    G --> H[Step 8: Switch Templates / Edit Inline]
-    H --> I[Step 9: Download PDF / Print Vector Resume]
+flowchart TD
+    A["Step 1: Open ResumePilot AI"] --> B["Step 2: Enter Job Description or Load Sample"]
+    B --> C["Step 3: Upload Existing CV - PDF, DOCX, or TXT"]
+    C --> D["Step 4: Generate Updated Resume"]
+    D --> E["Step 5: Parse Document and Analyze Job Description"]
+    E --> F["Step 6: Generate Tailored Resume and Keyword Analysis"]
+    F --> G["Step 7: View ATS Scorecard and Resume"]
+    G --> H["Step 8: Switch Templates or Edit Resume"]
+    H --> I["Step 9: Download PDF or Print Resume"]
 ```
 
 1. **Step 1:** Open the application in the browser at `http://localhost:3000`.
